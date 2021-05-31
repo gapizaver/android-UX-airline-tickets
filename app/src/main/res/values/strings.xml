@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nakup letalskih kart</string>
+    <string-array name="destinations">
+        <item>Indija Koromandija</item>
+        <item>Zagreb</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Barcelona</item>
+        <item>London</item>
+        <item>New York</item>
+        <item>Mavricij</item>
+    </string-array>
+</resources>
